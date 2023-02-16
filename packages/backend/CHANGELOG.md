@@ -1,5 +1,13 @@
 # example-backend
 
+## 0.2.81
+
+### Patch Changes
+
+- Updated dependencies
+  - @backstage/plugin-auth-backend@0.18.1
+  - example-app@0.2.81
+
 ## 0.2.80
 
 ### Patch Changes
